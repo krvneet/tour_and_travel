@@ -29,7 +29,7 @@ const Navbar = () => {
           </div>
 
           <div className={active}>
-            <ul className='navLists flex'>
+            <ul className='navList flex'>
                <li className='navItem'> 
                  <a href="#" className='navLink'>Home</a>
                </li>
