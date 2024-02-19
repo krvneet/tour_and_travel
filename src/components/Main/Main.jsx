@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import './main.css'
 import {HiOutlineClipboardCheck, HiOutlineLocationMarker} from'react-icons/hi'
 import img1 from '../Assets/image(1).jpg'
@@ -10,6 +10,8 @@ import img6 from '../Assets/img (6).jpg'
 import img7 from '../Assets/img(7).jpg'
 import img8 from '../Assets/img (8).jpg'
 import img9 from '../Assets/img (9).jpg'
+import Aos from 'aos';
+import 'aos/dist/aos.css';
 
 
 const data = [
@@ -101,11 +103,17 @@ const data = [
 ]
 
 const Main = () => {
+
+  
+  useEffect(() => {
+    Aos.init({duration:2000});
+  } , [])
+  
   return (
     <section className='main container section'>
      
       <div className='secTitle'>
-        <h3 className='title'>
+        <h3 data-aos="fade-right" className='title'>
           Most Visited Destinations
         </h3>
       </div>
