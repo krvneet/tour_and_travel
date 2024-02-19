@@ -21,7 +21,7 @@ const data = [
     destTitle: 'Bora Bora',
     location: 'New Zealand',
     grade: 'CULTURAL RELAX',
-    fees: '$700',
+    fees: '₹60,000',
     description: 'The epitome of romance, Bora Bora is one of the best travel  destinations in the World. This place is known for its luxurious stays and adventurous activities.'
     }
     ,
@@ -31,7 +31,7 @@ const data = [
       destTitle: 'Machu Picchu',
       location: 'Peru',
       grade: 'CULTURAL RELAX',
-      fees: '$600',
+      fees: '₹50,000',
       description: 'Huayna Picchu is a mountain in Peru, rising over Machu Picchu, the so-called Lost City of Incas. This place is popular among tourists as the sunrise from the Sun Gate is simply spectacular.'
     },
     {
@@ -40,7 +40,7 @@ const data = [
       destTitle: 'Great Barrier Reef',
       Location: 'Australia',
       grade: 'CULTURAL RELAX ',
-      fees: '$700',
+      fees: '₹60,000',
       description: 'One of the most remarkable Australian natural gifts is the Great Barrier Reef. The hallmark of this place is lavish and beauty. Always interesting to be in this place'
     },
     {
@@ -49,7 +49,7 @@ const data = [
       destTitle: 'Guanajuato',
       location: 'Mexico',
       grade: 'CULTURAL RELAX',
-      fees: '$1100',
+      fees: '₹92,000',
       description: 'A city in central Mexico, Guanajuato is known for its history of silver mining and colonial architecture. The houses in the city are very attractively painted with the most bright colors available. Always welcome.'
     },
     {
@@ -58,7 +58,7 @@ const data = [
       destTitle: 'Cappadocia',
       location: 'Turkey ',
       grade: 'CULTURAL RELAX',
-      fees: '$800',
+      fees: '₹66,000',
       description: 'According to the World Tourism Ranking, 45 Million people visit Turkey each year, and from that about 2 Million come to visit Cappadocia. This place is known for its luxurious stays and adventurous activities'
         
     },
@@ -68,7 +68,7 @@ const data = [
       destTitle: 'Cinque Terre',
       location: 'Italy',
       grade: 'CULTURAL RELAX',
-      fees: '$840',
+      fees: '₹70,000',
       description: 'The vibrant hues of the houses are its benchmark and explain the beauty of this place. Also, if you are a foodie and love seafood, you will be exhilarated with the choice you are about to get here. Happy exploring great food! '
     },
     {
@@ -77,7 +77,7 @@ const data = [
       destTitle: 'Angkor Wat',
       location: 'Cambodia',
       grade: 'CULTURAL RELAX',
-      fees: '$790',
+      fees: '₹65,000',
       description: 'Angkot wat represents the entire range of Khmer art from the 9th to the 15th century. This temple is considered the heart and soul of Cambodia. This place is known for its luxurious stays and adventurous activities'
     },
     {
@@ -86,7 +86,7 @@ const data = [
       destTitle: 'Taj Mahal',
       location: 'India',
       grade: 'CULTURAL RELAX',
-      fees: '$900',
+      fees: '₹50,000',
       description: 'An immense mausoleum of white marble, built-in Agra by Mughal emperor Shah Jahan in memory of his wife Mumtaz, the monument is breathtakingly beautiful. This place is known for its luxurious stays and adventurous activities'
     },
     {
@@ -95,7 +95,7 @@ const data = [
       destTitle: 'Bali Island',
       location: 'Indonesia',
       grade: 'CULTURAL RELAX',
-      fees: '$500',
+      fees: '₹55,000',
       description: 'Bali is an Indonesian Island and one of the best holiday destinations in the Indonesian archipelago. Bali is known for its volcanic mountains, history, art & culture, food, temples and beautiful sandy beaches.'
     }
       
