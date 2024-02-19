@@ -49,7 +49,7 @@ const data = [
       destTitle: 'Guanajuato',
       location: 'Mexico',
       grade: 'CULTURAL RELAX',
-      fees: '₹92,000',
+      fees: '₹95,000',
       description: 'A city in central Mexico, Guanajuato is known for its history of silver mining and colonial architecture. The houses in the city are very attractively painted with the most bright colors available. Always welcome.'
     },
     {
